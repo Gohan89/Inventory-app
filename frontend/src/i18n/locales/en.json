@@ -1,0 +1,13 @@
+{
+    "welcome": "Welcome to the Inventory Management System",
+    "login": "Login",
+    "register": "Register",
+    "cart": "Cart",
+    "products": "Products",
+    "shops": "Shops",
+    "addProduct": "Add Product",
+    "addShop": "Add Shop",
+    "discount": "Discount",
+    "placeOrder": "Place Order"
+}
+

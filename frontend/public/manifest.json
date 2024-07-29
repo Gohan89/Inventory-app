@@ -1,0 +1,16 @@
+{
+    "short_name": "InventoryApp",
+    "name": "Inventory Management System",
+    "icons": [
+        {
+            "src": "favicon.ico",
+            "sizes": "16x16 32x32",
+            "type": "image/x-icon"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+}
+
